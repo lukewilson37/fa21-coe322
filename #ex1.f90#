@@ -1,0 +1,10 @@
+program ex1
+  !implicit none
+  print *,"Type a number"
+  integer :: mynumber, temp
+  !read *,mynumber
+  !temp = mynumber
+  !print *,temp
+
+
+end program ex1
